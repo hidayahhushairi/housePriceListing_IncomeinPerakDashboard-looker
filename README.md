@@ -8,8 +8,8 @@
 
 ## Methodolgy : Qualitative and quantitative research approach was adopted. 
 
- #### Data Source : This research conducted on external and survey data from government agencies National Property Information Centre (NAPIC), The Department of Statistics Malaysia, The Department of Town and Country Planning (PLANMalaysia) and, job portal maukerja website. 
-- NAPIC prepared open data sales consisting of residential, commercial, and industrial property transaction data in Malaysia. This research concentrates on Perak residential estate - involves 38144 transaction data by Property Type, Spatiality Data and Temporality Data (2021 - 2024).
+ #### Data Source : This research conducted on external and survey data from government agencies The Department of Valuation and Property Services, The Department of Statistics Malaysia, The Department of Town and Country Planning (PLANMalaysia) and, job portal maukerja website. 
+- The Department of Valuation and Property Services - NAPIC prepared open data sales consisting of residential, commercial, and industrial property transaction data in Malaysia. This research concentrates on Perak residential estate - involves 38144 transaction data by Property Type, Spatiality Data and Temporality Data (2021 - 2024).
 - The Department of Statistics Malaysia's - OpenDOSM provides annual salary and wages statistics by key demographic and socioeconomic dimensions (2010 - 2023). This data obtained from Housing and Population Cencus 2020.
 - PLANMalaysia provide national development plan document digital reference, known as Rancangan Tempatan Daerah (RTD), by specific mukim across 12 districts in Perak. 
 - maukerja website offers guidelines for estimating house price affordability by salary.
@@ -52,5 +52,17 @@ Property Budget Page :
     - The pattern in darkest yellow cell across property type shows that median of property price values more conventional in 2-2 1/2 Storey Semi-Detached house (RM 600 000), whereas least conventional in the 
       property Low-Cost Flat (RM 70 000). 	It is crucial for local to estimate their wage affordability to the preferred house type and spot carefully potential property aspects including developer’s reputation, 
       construction quality, current market trends and many more.
+
+(6) Line Chart - Property Transaction by Quarter and Year
+<br>
+  - Projected in this graph, NAPIC recorded the property transaction has grew strikingly during Quarter 2 2022.  During the same time period, house prices decreased by 0.27% when adjusted for inflation.
+    It was the pent-up demand following the economy recovery from the fiscal impact COVID-19 crisis. Despite the drop observed in 2023, Quarter 2 decrease moderately in 2023 and the following year 2024,
+    from 2948 to 2927 purchases. During Quarter 4 2024, least property purchase occurred, with only 957 purchases. Local can opting to invest their budget into the property purchase at the ideal time.
+
+(7)Bar Chart - Median Income by State and Year
+  - Th is research apply median over average salary as average salary skewed by extremely high income earners. As per DOSM latest available data shown, the highest median income shown in 2023, Putrajaya, Kuala Lumpur, Selangor. Perak median income is RM 2043. 
+
+(8) Pivot Table - Loan Eligibility and Estimated House Price
+- This chart counted monthly installment based on salary and interest rate. Buyer can allocate commitment house (wise spending). This help to acquire relevant total house price that align with affordability and salary.
 
 ## Conclusion :
